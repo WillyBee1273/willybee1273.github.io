@@ -1,0 +1,70 @@
+.Color1 { 
+    background: #83580b; 
+}
+
+.color2 { 
+    background: #d9b650; 
+}
+
+.color3 { 
+    background: #f5dd7b; 
+}
+
+.color4 { 
+    background: #fde994; 
+}
+
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    background-color: #d9b650;
+}
+
+table {
+    border: 1px solid #83580b;
+    background-color: #f5dd7b
+
+}
+
+thead {
+    border: 1px solid #83580b;
+    background-color: #d9b650;
+}
+
+tbody {
+    border: 1px solid #83580b;
+    background-color: #fde994;
+}
+
+td {
+    border: #83580b 1px solid;
+    padding: 7px;
+}
+
+img {
+    padding: 1px;
+    border: #83580b solid 1px;
+}
+
+.name {
+    text-align: center;
+}
+
+.heading-graphic-row {
+    width: fit-content;
+    height: fit-content;
+}
+
+.heading-graphic-1 {
+    float: inline;
+    margin: 5px;
+    height: 200;
+}
+
+.heading-graphic-2 {
+    float: inline;
+    margin: 5px;
+    height: 200;
+}
